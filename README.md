@@ -10,7 +10,6 @@
 
 ## [↑](#table-of-contents) Contributing
 
-Please read [CONTRIBUTING](./CONTRIBUTING.md) if you wish to add tools or resources.
 
 ## [↑](#table-of-contents) Datasets
 
